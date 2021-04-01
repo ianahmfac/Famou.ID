@@ -4,7 +4,7 @@ Famou.ID is a cinema ticket booking simulation application, created using the Fl
 
 You can search for now playing movies, upcoming movies, movies by genre and region that you like and you can simulate ticket bookings
 
-![img](https://raw.githubusercontent.com/ianahmfac/images/master/Banner.png)
+![img](https://github.com/ianahmfac/images/blob/master/Famouid%20Playstore.png?raw=true)
 
 ## Getting Started
 
